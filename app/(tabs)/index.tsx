@@ -46,7 +46,7 @@ export default function HomeScreen() {
           <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
           <ThemedText type="defaultSemiBold">app-example</ThemedText>.
         </ThemedText>
-        <Link href="/login" >
+        <Link href="/apidemo" >
           <ThemedText type="link">Go to login screen!</ThemedText>
         </Link>
       </ThemedView>
